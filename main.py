@@ -28,9 +28,9 @@ if not os.path.exists('data.csv'):
     open("data.csv","w")
 APP_ID = 6435225
 API_HASH = "4e984ea35f854762dcde906dce426c2d"
-BOT_TOKEN = "Bot token"
-UPDATES_CHANNEL = "TheUpdatesChannel"
-OWNER= [936481432,1669178360]
+BOT_TOKEN = "5746200090:AAFEk1zLXsrRfuzo_PdpSDTa603-b3Pw3xM"
+UPDATES_CHANNEL = "hhgsdajfhsdajhjdfs"
+OWNER= [5680166111,5680166111]
 PREMIUM= ["Superior_bots", "Superior_Support"]
 app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
